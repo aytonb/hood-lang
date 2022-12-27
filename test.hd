@@ -1,0 +1,18 @@
+Test + test
+test+test
+test - test
+test-test
+
+fnc f(x) = 2*x
+
+fnc g(x) = (
+  a = x^2
+  a/2
+)
+
+cls new(base)
+
+new.el += 4
+
+new.filter(x<3).new_fn(2,3.2)
+
